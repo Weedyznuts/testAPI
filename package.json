@@ -1,0 +1,23 @@
+{
+  "name": "testapi",
+  "version": "1.0.0",
+  "description": "testapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Joe Patrick Rafael",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "ip": "^2.0.1",
+    "jsonwebtoken": "^9.0.2",
+    "md5": "^2.3.0",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1"
+  }
+}
